@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.team-zomsa.aplib-unity": {
-      "version": "https://github.com/team-zomsa/Aplib-Unity-Package.git",
+      "version": "https://github.com/team-zomsa/Aplib-Unity-Package-Research.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e5144d9faea13338ebf4d16834e38a8f8ffd03a5"
+      "hash": "374c6a03c09eb8938d0377d7317e9e064b519b6f"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
